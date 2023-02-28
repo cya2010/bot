@@ -1,0 +1,70 @@
+{
+  "functions/events/discord/message/create.js": {
+    "event": {
+      "type": 0,
+      "tts": false,
+      "timestamp": "2022-04-29T15:08:04.519000+00:00",
+      "referenced_message": null,
+      "pinned": false,
+      "nonce": "969616063597641728",
+      "mentions": [],
+      "mention_roles": [],
+      "mention_everyone": false,
+      "member": {
+        "roles": [
+          "953801027310731288"
+        ],
+        "nick": "˞˞˞˞˞˞˞˞˞˞˞˞˞˞˞˞˞",
+        "mute": false,
+        "joined_at": "2022-03-16T23:44:45.683000+00:00",
+        "hoisted_role": "953801027310731288",
+        "flags": 0,
+        "deaf": false
+      },
+      "id": "969616065116143716",
+      "flags": 0,
+      "embeds": [
+        {
+          "video": {
+            "width": 1280,
+            "url": "https://www.youtube.com/embed/PBPi6c7RQok",
+            "height": 720
+          },
+          "url": "https://www.youtube.com/watch?v=PBPi6c7RQok",
+          "type": "video",
+          "title": "All Version Of Are We Living Like in Those Days? (From my collection)",
+          "thumbnail": {
+            "width": 640,
+            "url": "https://i.ytimg.com/vi/PBPi6c7RQok/sddefault.jpg",
+            "proxy_url": "https://images-ext-1.discordapp.net/external/SWGHF9Sc4TpUz70b0piUGLdTrt7RzupuszM_mH-RH0c/https/i.ytimg.com/vi/PBPi6c7RQok/sddefault.jpg",
+            "height": 480
+          },
+          "provider": {
+            "url": "https://www.youtube.com",
+            "name": "YouTube"
+          },
+          "description": "Hello, this is all the version of: Are We Living Like in Those Days? that I found in the internet on public, if you know a version that is not in here, please do share it under the comment!\n------------------------------------------------------------\n0:00 - Pochonbo Electronic Ensemble Version\n4:31 - Wangjaesan Light Music Band Version (Type I)\n...",
+          "color": 16711680,
+          "author": {
+            "url": "https://www.youtube.com/channel/UCwGs2cV4o7HftRPANlSclyQ",
+            "name": "ヌルぽ"
+          }
+        }
+      ],
+      "edited_timestamp": null,
+      "content": "!play https://www.youtube.com/watch?v=PBPi6c7RQok",
+      "components": [],
+      "channel_id": "953801028032151658",
+      "author": {
+        "username": "Hmate",
+        "public_flags": 128,
+        "id": "677414159997992982",
+        "discriminator": "4525",
+        "avatar_decoration": null,
+        "avatar": "b6540e0bf4fa24be8b7a1d51bee6e9b0"
+      },
+      "attachments": [],
+      "guild_id": "953801027243618335"
+    }
+  }
+}
